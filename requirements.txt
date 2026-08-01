@@ -14,3 +14,5 @@ plotly
 opencv-python 
 jupyter 
 ipykernel
+h5py
+torchvision

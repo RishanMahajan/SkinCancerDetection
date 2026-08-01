@@ -1,2 +1,3 @@
 skincan
 data/train-metadata.csv
+model_results_*.html
