@@ -1,0 +1,16 @@
+numpy
+pandas
+polars
+scikit-learn
+imbalanced-learn
+lightgbm
+catboost
+xgboost 
+optuna 
+tqdm 
+matplotlib 
+seaborn 
+plotly 
+opencv-python 
+jupyter 
+ipykernel
